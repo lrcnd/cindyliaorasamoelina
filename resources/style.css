@@ -91,7 +91,8 @@ nav button {
 }
 
 nav button:hover,
-p a:hover {
+p a:hover,
+h1 a:hover {
     border-bottom: 1px solid;}
 
 main {
@@ -127,7 +128,8 @@ p {
     text-align: left;
 }
 
-p a {
+p a,
+h1 a{
     border-bottom: 1px solid fff;
 }
 
