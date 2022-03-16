@@ -43,6 +43,7 @@ body {
     color:hsl(0, 0%, 0%);
     background-color: hsl(0, 0%, 100%);
     padding: var(--s1);
+    font-size: var(--s2);
 }
 
 a {
@@ -97,7 +98,7 @@ h1 a:hover {
     border-bottom: 1px solid;}
 
 main {
-    
+    margin: 0 var(--s1) 0 var(--s1);
     grid-area: main;
 }
 
@@ -124,7 +125,6 @@ main section.gallery img {
 }
 
 p {
-    font-size: var(--s2);
     margin: var(--s-4) 0 var(--s-4) 0;
     text-align: left;
 }
