@@ -78,7 +78,7 @@ nav img {
 nav button {
     background-color: #fff;
     border: none;
-    font-size: var(--s1);
+    font-size: var(--s3);
     font-family: "suisse", Georgia, serif;
     border: 1px solid #fff;
     display:block;
@@ -124,7 +124,7 @@ main section.gallery img {
 }
 
 p {
-    font-size: var(--s0);
+    font-size: var(--s2);
     margin: var(--s-4) 0 var(--s-4) 0;
     text-align: left;
 }
